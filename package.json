@@ -1,0 +1,8 @@
+{
+	"name": "com.poiyomi.poiyomitoonshader",
+	"displayName":"PoiyomiToonShader Public",
+	"version": "8.1.161",
+	"unity": "2019.4",
+	"description": "A feature rich toon shader for unity and VR Chat",
+	"dependencies": {}
+}
